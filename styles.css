@@ -17,13 +17,13 @@ body {
 }
 
 .top-left {
-    margin-top:10px;
-    margin-left:130px
+    margin-top:10%;
+    margin-left:20%;
 }
 
 .top-right {
-    margin-left: 80px;
-    margin-top: 10px;
+    margin-left: 20%;
+    margin-top: 10%;
 }
 
 .top-right img {
